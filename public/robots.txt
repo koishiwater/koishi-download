@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 下载文件不需要被搜索引擎收录
+Disallow: /download/
