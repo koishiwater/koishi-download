@@ -1,5 +1,7 @@
 # koishi资料网
 
+[![build](https://github.com/koishiwater/koishi-download/actions/workflows/build.yml/badge.svg)](https://github.com/koishiwater/koishi-download/actions/workflows/build.yml)
+
 一个纯静态的学习资源下载站：Vue 3 + TypeScript + Vite 构建，部署在 Cloudflare Pages，文件托管在对象存储（推荐 Cloudflare R2），无需后端、无需数据库。
 
 ## 功能
